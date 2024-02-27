@@ -133,9 +133,7 @@
 		<li>[0832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)</li>
 		<li>[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)</li>
 		<li>[0160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)</li>
-		<li>[020
-
-6. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)</li>
+		<li>[0206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)</li>
 		<li>[0023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)</li>
 		<li>[0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)</li>
 		<li>[0445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)</li>
