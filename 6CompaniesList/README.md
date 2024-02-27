@@ -63,9 +63,7 @@ Sr  | Problems                                                                  
 3   | Rotate by 90 degree                                                                    | [![Problem Link]](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/) | 
 4   | Spirally traversing a matrix                                                           | [![Problem Link]](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/) | 
 5   | Stock span problem                                                                     | [![Problem Link]](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | 
-6   | Possible Words From
-
- Phone Digits                                                      | [![Problem Link]](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/) | 
+6   | Possible Words From Phone Digits                                                      | [![Problem Link]](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/) | 
 7   | Unit Area of largest region of 1's                                                    | [![Problem Link]](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/) | 
 8   | Connect Nodes at Same Level                                                            | [![Problem Link]](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/) | 
 9   | Count Number of SubTrees having given Sum                                              | [![Problem Link]](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/) | 
@@ -113,8 +111,6 @@ Sr  | Problems                                                                  
 5   | Split Array Largest Sum                                                               | [![Problem Link]](https://leetcode.com/problems/split-array-largest-sum/) | 
 6   | Find in Mountain Array                                                                | [![Problem Link]](https://leetcode.com/problems/find-in-mountain-array/) | 
 7   | Capacity To Ship Packages Within D Days                                               | [![Problem Link]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 
-
-
 8   | Median in a row-wise sorted Matrix                                                    | [![Problem Link]](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1/) | 
 9   | Maximum product of two integers in an array                                           | [![Problem Link]](https://practice.geeksforgeeks.org/problems/maximum-product-of-two-integers/1/) | 
 10  | Boolean Parenthesization                                                              | [![Problem Link]](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1/) | 
@@ -231,9 +227,7 @@ Sr  | Problems                                                                  
 4   | Word Break II                                                                         | [![Problem Link]](https://leetcode.com/problems/word-break-ii/) | 
 5   | Shortest Source to Destination Path                                                   | [![Problem Link]](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0/) | 
 6   | Count all possible paths from top left to bottom right of a matrix                    | [![Problem Link]](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right-of-a-matrix/1/) | 
-7   | Find the smallest positive integer value
-
- that cannot be represented as sum of any subset | [![Problem Link]](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/) | 
+7   | Find the smallest positive integer value that cannot be represented as sum of any subset | [![Problem Link]](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/) | 
 8   | Boolean Parenthesization                                                             | [![Problem Link]](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1/) | 
 9   | Squares in N*N Chessboard                                                             | [![Problem Link]](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1) | 
 10  | Find the Number Occurring Odd Number of Times                                         | [![Problem Link]](https://practice.geeksforgeeks.org/problems/find-the-odd-occurring-number-1587115620/1/) | 
