@@ -402,9 +402,7 @@
 		<li>[0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</li>
 		<li>[0014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)</li>
 		<li>[0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)</li>
-		<li>[0006. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)</li
-
->
+		<li>[0006. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)</li>
 		<li>[0012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)</li>
 		<li>[0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)</li>
 		<li>[0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)</li>
