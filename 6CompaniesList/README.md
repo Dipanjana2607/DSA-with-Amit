@@ -2,7 +2,7 @@
 
 # 6+5 Companies questions List
 
-In this repo I am adding question List for [6Companies30Days Challenge](https://www.youtube.com/watch?v=8ESo_bXhRC4) by [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/)
+In this repo I have added question List for [6Companies30Days Challenge](https://www.youtube.com/watch?v=8ESo_bXhRC4) by [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/)
 plus I have added some more companies questions list
 
 ## Problem Sets
