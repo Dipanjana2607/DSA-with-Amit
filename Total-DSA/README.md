@@ -5,10 +5,6 @@
 - [Programming Skills](#programming-skills)
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm)
-- [Graph Theory](#graph-theory)
-- [Dynamic Programming](#dynamic-programming)
-- [Binary Search](#binary-search)
-- [SQL](#sql)
 
 ## Programming Skills
 
