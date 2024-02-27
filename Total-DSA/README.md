@@ -264,9 +264,7 @@
 		<li>[0771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)</li>
 		<li>[0094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)</li>
 		<li>[0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)</li>
-		<li>[0070. Climbing Stairs](https://leetcode
-
-.com/problems/climbing-stairs/)</li>
+		<li>[0070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)</li>
 		<li>[0088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)</li>
 		<li>[0215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)</li>
 		<li>[0394. Decode String](https://leetcode.com/problems/decode-string/)</li>
@@ -332,9 +330,7 @@
 		<li>[0207. Course Schedule](https://leetcode.com/problems/course-schedule/)</li>
 		<li>[0210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)</li>
 		<li>[0654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)</li>
-		<li>[0655. Print Binary Tree](https://leetcode.com/problems/print
-
--binary-tree/)</li>
+		<li>[0655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)</li>
 		<li>[0112. Path Sum](https://leetcode.com/problems/path-sum/)</li>
 		<li>[0700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)</li>
 		<li>[0145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)</li>
