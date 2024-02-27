@@ -68,9 +68,7 @@
 		<li>[0058. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)</li>
 		<li>[0048. Rotate Image](https://leetcode.com/problems/rotate-image/)</li>
 		<li>[1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)</li>
-		<li>[005
-
-3. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)</li>
+		<li>[0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)</li>
 		<li>[0001. Two Sum](https://leetcode.com/problems/two-sum/)</li>
 		<li>[0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)</li>
 		<li>[0007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)</li>
