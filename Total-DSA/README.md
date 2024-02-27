@@ -197,9 +197,7 @@
 		<li>[0787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)</li>
 		<li>[1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)</li>
 		<li>[0219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)</li>
-		<li>[0997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)</li
-
->
+		<li>[0997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)</li>
 		<li>[0329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)</li>
 		<li>[0490. The Maze](https://leetcode.com/problems/the-maze/)</li>
 		<li>[0784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)</li>
