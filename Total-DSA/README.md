@@ -1,6 +1,6 @@
-Certainly! Here is the updated README.md with links to each LeetCode problem:
 
-# LeetCode Study Plans
+
+# TOTAL-DSA 
 
 - [Programming Skills](#programming-skills)
 - [Data Structure](#data-structure)
