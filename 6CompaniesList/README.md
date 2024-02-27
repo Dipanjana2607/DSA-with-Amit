@@ -1,6 +1,6 @@
 # DSA-with-Amit
 
-# 6+5 Companies 30 Days Challenge
+# 6+5 Companies questions List
 
 In this repo I am adding question List for [6Companies30Days Challenge](https://www.youtube.com/watch?v=8ESo_bXhRC4) by [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/)
 plus I have added some more companies questions list
